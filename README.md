@@ -1,4 +1,4 @@
-# 🌞 Microsoft-AI-School
+# 🌞 Microsoft AI School 2기
 ---
 ## 훈련기간
 - 2023-04-03 ~ 2023-09-19 (총 118일, 956시간)
